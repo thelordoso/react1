@@ -6,12 +6,12 @@ import './index.css'
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBNQuE3-cEx4s3hfu9s-F11pXCeJlJL12o",
-  authDomain: "full-stack-react-934cb.firebaseapp.com",
-  projectId: "full-stack-react-934cb",
-  storageBucket: "full-stack-react-934cb.appspot.com",
-  messagingSenderId: "710941682797",
-  appId: "1:710941682797:web:98b92b892648986d4e2364"
+  apiKey: "AIzaSyC30VtKPhEbahjdBlSrmTXn5W9HtAOkKno",
+  authDomain: "react-first-e07dd.firebaseapp.com",
+  projectId: "react-first-e07dd",
+  storageBucket: "react-first-e07dd.firebasestorage.app",
+  messagingSenderId: "587897836984",
+  appId: "1:587897836984:web:61a390509b18ec4edbab4d",
 };
 
 const app = initializeApp(firebaseConfig);
