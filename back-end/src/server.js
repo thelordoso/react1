@@ -20,7 +20,7 @@ async function connectToDB() {
 
   await client.connect();
 
-  db = client.db('full-stack-react-db');
+  db = client.db('reactdb');
 }
 
 app.get('/api/articles/:name', async (req, res) => {
